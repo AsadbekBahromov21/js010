@@ -143,7 +143,7 @@
 //     function foo(str, a){
 //         console.log(str.repeat(a));
 //     }
-//     console.log(foo("salom", 5));
+//     console.log(foo(" salom ", 5));
 // }
 // {
 //     // 11 masala 1 korinishi
